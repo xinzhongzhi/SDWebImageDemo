@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+            timestampString = "526208064.125506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+            timestampString = "526208064.125506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+            timestampString = "526208064.125506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__118-[UIView(WebCache) sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:]_block_invoke.18"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.171371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.30"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.174289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.31"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.176767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+            timestampString = "526208064.125506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__118-[UIView(WebCache) sd_internalSetImageWithURL:placeholderImage:options:operationKey:setImageBlock:progress:completed:]_block_invoke.18"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.183432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.30"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.18607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.31"
+                  moduleName = "&#x56fe;&#x7247;&#x7f13;&#x5b58;&#x7ec3;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qimanyu/Desktop/%E8%B5%84%E6%96%99/%E7%BB%83%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%BA%90%E7%A0%81/%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98%E7%BB%83%E4%B9%A0/Pods/SDWebImage/SDWebImage/UIView+WebCache.m"
+                  timestampString = "526208065.189315"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SDWebImage/SDWebImage/SDWebImageManager.m"
+            timestampString = "526208058.233452"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "-loadImageWithURL:options:progress:completed:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
